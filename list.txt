@@ -1,0 +1,3 @@
+-m = message
+git check out -b new = создать новую ветку с именем new и сразу на нее переключиться (ключ -b в данном случае branch)
+git branch -D new = удалить ветку с именем new (ключ -D это delete)
