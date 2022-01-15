@@ -4,7 +4,7 @@ body {
 }
 
  a {
-     color: firebrick;
-     font-size: 20px;
+     color: red;
+     font-size: 18px;
      text-transform: uppercase;
  }
