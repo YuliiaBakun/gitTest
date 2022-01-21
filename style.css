@@ -2,9 +2,3 @@ body {
     background-color: goldenrod;
     height: 100vh;
 }
-
- a {
-     color: red;
-     font-size: 18px;
-     text-transform: uppercase;
- }
